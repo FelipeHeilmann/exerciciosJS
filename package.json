@@ -1,0 +1,7 @@
+{
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "console-read-write": "^0.1.1"
+  }
+}
